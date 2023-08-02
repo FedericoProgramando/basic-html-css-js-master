@@ -1,11 +1,16 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
     text-align: center;
-    background-image: url(/imagen/f768x1-2048_2175_5050.jpg);
+    background-image: url(/imagen/10-102492_gravity-falls-fondos-de-pantalla-para-pc\ \(1\).jpg);
+    background-size: cover;
   }
   
   h1 {
-    color: #333;
+    color: #fff;
+  }
+
+  p {
+    color: #fff;
   }
   
   input {
